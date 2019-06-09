@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec459d4a87b7c43499d25eee42f1e483
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mUnitControlCanvas: {fileID: 8094461228407458655, guid: 06e55e24389e9a0468a328335bf51414,
+      type: 3}
+  - mAttackButton: {instanceID: 0}
+  - mMoveButton: {instanceID: 0}
+  - mHaltButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

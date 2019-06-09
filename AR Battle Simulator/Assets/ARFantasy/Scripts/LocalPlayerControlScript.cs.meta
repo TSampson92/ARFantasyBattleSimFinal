@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 07068b56a798f9f4db668f94a97327ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Unit1Prefab: {fileID: 1017659870491303396, guid: 4a25ee3620f5a2144ad8d6469a386422,
+      type: 3}
+  - Unit2Prefab: {fileID: 5610933963012119449, guid: 8338a6964cb47a14a82f8b4bb456f15d,
+      type: 3}
+  - Unit3Prefab: {fileID: 7537371768350004001, guid: f7db4ca88718858459e68ef08c78e7b7,
+      type: 3}
+  - IceSpellPrefab: {fileID: 7889759877057584025, guid: fe1bb81087985504da50d38e62552f19,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
